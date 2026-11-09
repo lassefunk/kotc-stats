@@ -1,0 +1,434 @@
+{
+  "generated_at": "2026-11-09T18:12:26.680Z",
+  "totals": {
+    "users": 10,
+    "clubs": 10,
+    "players": 101,
+    "events": 32,
+    "events_closed": 21,
+    "events_ongoing": 11,
+    "rounds": 363,
+    "rating_changes": 1452,
+    "page_views": 22,
+    "unique_visitors": 9,
+    "unique_visitors_in_period": 9
+  },
+  "days": 30,
+  "sources": {
+    "referrers": [
+      {
+        "value": "(none)",
+        "views": 9,
+        "visitors": 5
+      },
+      {
+        "value": "lovable.dev",
+        "views": 9,
+        "visitors": 1
+      },
+      {
+        "value": "facebook.com",
+        "views": 1,
+        "visitors": 1
+      }
+    ],
+    "utm_sources": [
+      {
+        "value": "(none)",
+        "views": 19,
+        "visitors": 6
+      }
+    ],
+    "top_pages": [
+      {
+        "value": "/",
+        "views": 18,
+        "visitors": 6
+      },
+      {
+        "value": "/about",
+        "views": 1,
+        "visitors": 1
+      }
+    ]
+  },
+  "visitor_profile": {
+    "countries": [
+      {
+        "value": "DK",
+        "views": 10,
+        "visitors": 2
+      },
+      {
+        "value": "(none)",
+        "views": 9,
+        "visitors": 5
+      }
+    ],
+    "devices": [
+      {
+        "value": "desktop",
+        "views": 11,
+        "visitors": 2
+      },
+      {
+        "value": "(none)",
+        "views": 7,
+        "visitors": 5
+      },
+      {
+        "value": "mobile",
+        "views": 1,
+        "visitors": 1
+      }
+    ],
+    "browsers": [
+      {
+        "value": "Chrome",
+        "views": 11,
+        "visitors": 2
+      },
+      {
+        "value": "(none)",
+        "views": 7,
+        "visitors": 5
+      },
+      {
+        "value": "Safari",
+        "views": 1,
+        "visitors": 1
+      }
+    ],
+    "os": [
+      {
+        "value": "Windows",
+        "views": 11,
+        "visitors": 2
+      },
+      {
+        "value": "(none)",
+        "views": 7,
+        "visitors": 5
+      },
+      {
+        "value": "iOS",
+        "views": 1,
+        "visitors": 1
+      }
+    ],
+    "languages": [
+      {
+        "value": "da",
+        "views": 12,
+        "visitors": 3
+      },
+      {
+        "value": "(none)",
+        "views": 7,
+        "visitors": 5
+      }
+    ]
+  },
+  "daily": [
+    {
+      "date": "2026-10-11",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-12",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-13",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-14",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 4,
+      "new_events": 1,
+      "rounds_played": 3,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-15",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-16",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-17",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-18",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-19",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-20",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-21",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 1,
+      "rounds_played": 3,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-22",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-23",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 9,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-24",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 1,
+      "rounds_played": 5,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-25",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 1,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-26",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-27",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-28",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 1,
+      "rounds_played": 3,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-29",
+      "new_users": 1,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-30",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-10-31",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-01",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-02",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-03",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-04",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 1,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-05",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-06",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 1,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-07",
+      "new_users": 1,
+      "new_clubs": 1,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 1,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-08",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
+    },
+    {
+      "date": "2026-11-09",
+      "new_users": 2,
+      "new_clubs": 2,
+      "new_players": 4,
+      "new_events": 1,
+      "rounds_played": 3,
+      "page_views": 22,
+      "unique_visitors": 9
+    }
+  ]
+}
