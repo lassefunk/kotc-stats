@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:12:28.438Z",
+  "generated_at": "2026-11-09T19:05:06.992Z",
   "totals": {
     "users": 10,
     "clubs": 10,
@@ -9,25 +9,35 @@
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 22,
-    "unique_visitors": 9,
-    "unique_visitors_in_period": 9
+    "page_views": 33,
+    "unique_visitors": 15,
+    "unique_visitors_in_period": 15
   },
   "days": 365,
   "sources": {
     "referrers": [
       {
-        "value": "(none)",
-        "views": 9,
-        "visitors": 5
+        "value": "lovable.dev",
+        "views": 14,
+        "visitors": 2
       },
       {
-        "value": "lovable.dev",
-        "views": 9,
-        "visitors": 1
+        "value": "(none)",
+        "views": 10,
+        "visitors": 6
       },
       {
         "value": "facebook.com",
+        "views": 3,
+        "visitors": 3
+      },
+      {
+        "value": "l.facebook.com",
+        "views": 1,
+        "visitors": 1
+      },
+      {
+        "value": "lm.facebook.com",
         "views": 1,
         "visitors": 1
       }
@@ -35,15 +45,15 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 19,
-        "visitors": 6
+        "views": 29,
+        "visitors": 11
       }
     ],
     "top_pages": [
       {
         "value": "/",
-        "views": 18,
-        "visitors": 6
+        "views": 28,
+        "visitors": 11
       },
       {
         "value": "/about",
@@ -56,20 +66,20 @@
     "countries": [
       {
         "value": "DK",
-        "views": 10,
-        "visitors": 2
+        "views": 19,
+        "visitors": 7
       },
       {
         "value": "(none)",
-        "views": 9,
+        "views": 10,
         "visitors": 5
       }
     ],
     "devices": [
       {
         "value": "desktop",
-        "views": 11,
-        "visitors": 2
+        "views": 18,
+        "visitors": 4
       },
       {
         "value": "(none)",
@@ -78,15 +88,15 @@
       },
       {
         "value": "mobile",
-        "views": 1,
-        "visitors": 1
+        "views": 4,
+        "visitors": 4
       }
     ],
     "browsers": [
       {
         "value": "Chrome",
-        "views": 11,
-        "visitors": 2
+        "views": 18,
+        "visitors": 4
       },
       {
         "value": "(none)",
@@ -95,6 +105,11 @@
       },
       {
         "value": "Safari",
+        "views": 3,
+        "visitors": 3
+      },
+      {
+        "value": "Edge",
         "views": 1,
         "visitors": 1
       }
@@ -102,8 +117,8 @@
     "os": [
       {
         "value": "Windows",
-        "views": 11,
-        "visitors": 2
+        "views": 18,
+        "visitors": 4
       },
       {
         "value": "(none)",
@@ -112,6 +127,11 @@
       },
       {
         "value": "iOS",
+        "views": 3,
+        "visitors": 3
+      },
+      {
+        "value": "Android",
         "views": 1,
         "visitors": 1
       }
@@ -119,13 +139,18 @@
     "languages": [
       {
         "value": "da",
-        "views": 12,
-        "visitors": 3
+        "views": 20,
+        "visitors": 6
       },
       {
         "value": "(none)",
         "views": 7,
         "visitors": 5
+      },
+      {
+        "value": "en",
+        "views": 2,
+        "visitors": 2
       }
     ]
   },
@@ -3777,8 +3802,8 @@
       "new_players": 4,
       "new_events": 1,
       "rounds_played": 3,
-      "page_views": 22,
-      "unique_visitors": 9
+      "page_views": 33,
+      "unique_visitors": 15
     }
   ]
 }
