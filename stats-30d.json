@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:05:04.646Z",
+  "generated_at": "2026-11-09T21:05:04.458Z",
   "totals": {
     "users": 10,
     "clubs": 10,
@@ -9,9 +9,9 @@
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 45,
-    "unique_visitors": 16,
-    "unique_visitors_in_period": 16
+    "page_views": 46,
+    "unique_visitors": 17,
+    "unique_visitors_in_period": 17
   },
   "days": 30,
   "sources": {
@@ -28,8 +28,8 @@
       },
       {
         "value": "facebook.com",
-        "views": 3,
-        "visitors": 3
+        "views": 4,
+        "visitors": 4
       },
       {
         "value": "l.facebook.com",
@@ -45,15 +45,15 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 41,
-        "visitors": 12
+        "views": 42,
+        "visitors": 13
       }
     ],
     "top_pages": [
       {
         "value": "/",
-        "views": 29,
-        "visitors": 12
+        "views": 30,
+        "visitors": 13
       },
       {
         "value": "/dashboard",
@@ -91,8 +91,8 @@
     "countries": [
       {
         "value": "DK",
-        "views": 31,
-        "visitors": 8
+        "views": 32,
+        "visitors": 9
       },
       {
         "value": "(none)",
@@ -108,8 +108,8 @@
       },
       {
         "value": "mobile",
-        "views": 16,
-        "visitors": 5
+        "views": 17,
+        "visitors": 6
       },
       {
         "value": "(none)",
@@ -135,8 +135,8 @@
       },
       {
         "value": "Safari",
-        "views": 3,
-        "visitors": 3
+        "views": 4,
+        "visitors": 4
       },
       {
         "value": "Edge",
@@ -152,8 +152,8 @@
       },
       {
         "value": "iOS",
-        "views": 15,
-        "visitors": 4
+        "views": 16,
+        "visitors": 5
       },
       {
         "value": "(none)",
@@ -169,8 +169,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 32,
-        "visitors": 7
+        "views": 33,
+        "visitors": 8
       },
       {
         "value": "(none)",
@@ -482,8 +482,8 @@
       "new_players": 4,
       "new_events": 1,
       "rounds_played": 3,
-      "page_views": 45,
-      "unique_visitors": 16
+      "page_views": 46,
+      "unique_visitors": 17
     }
   ]
 }
