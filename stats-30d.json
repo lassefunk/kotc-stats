@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:05:04.919Z",
+  "generated_at": "2026-11-10T19:05:04.831Z",
   "totals": {
     "users": 10,
     "clubs": 10,
@@ -9,9 +9,9 @@
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 54,
-    "unique_visitors": 23,
-    "unique_visitors_in_period": 23
+    "page_views": 56,
+    "unique_visitors": 25,
+    "unique_visitors_in_period": 25
   },
   "days": 30,
   "sources": {
@@ -33,8 +33,13 @@
       },
       {
         "value": "lm.facebook.com",
-        "views": 2,
-        "visitors": 2
+        "views": 3,
+        "visitors": 3
+      },
+      {
+        "value": "l.facebook.com",
+        "views": 1,
+        "visitors": 1
       },
       {
         "value": "com.linkedin.android",
@@ -42,7 +47,7 @@
         "visitors": 1
       },
       {
-        "value": "l.facebook.com",
+        "value": "linkedin.com",
         "views": 1,
         "visitors": 1
       }
@@ -50,15 +55,15 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 47,
-        "visitors": 16
+        "views": 49,
+        "visitors": 18
       }
     ],
     "top_pages": [
       {
         "value": "/",
-        "views": 34,
-        "visitors": 16
+        "views": 36,
+        "visitors": 18
       },
       {
         "value": "/dashboard",
@@ -96,8 +101,8 @@
     "countries": [
       {
         "value": "DK",
-        "views": 36,
-        "visitors": 11
+        "views": 38,
+        "visitors": 13
       },
       {
         "value": "(none)",
@@ -113,8 +118,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 21,
-        "visitors": 8
+        "views": 23,
+        "visitors": 10
       },
       {
         "value": "desktop",
@@ -130,13 +135,13 @@
     "browsers": [
       {
         "value": "Chrome",
-        "views": 21,
-        "visitors": 7
+        "views": 22,
+        "visitors": 8
       },
       {
         "value": "Other",
-        "views": 14,
-        "visitors": 1
+        "views": 15,
+        "visitors": 2
       },
       {
         "value": "(none)",
@@ -156,13 +161,13 @@
     ],
     "os": [
       {
-        "value": "Windows",
+        "value": "iOS",
         "views": 19,
-        "visitors": 5
+        "visitors": 6
       },
       {
-        "value": "iOS",
-        "views": 18,
+        "value": "Windows",
+        "views": 19,
         "visitors": 5
       },
       {
@@ -172,15 +177,15 @@
       },
       {
         "value": "Android",
-        "views": 3,
-        "visitors": 3
+        "views": 4,
+        "visitors": 4
       }
     ],
     "languages": [
       {
         "value": "da",
-        "views": 35,
-        "visitors": 8
+        "views": 37,
+        "visitors": 10
       },
       {
         "value": "(none)",
@@ -492,8 +497,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 8,
-      "unique_visitors": 7
+      "page_views": 10,
+      "unique_visitors": 9
     }
   ]
 }
