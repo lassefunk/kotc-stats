@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:05:04.777Z",
+  "generated_at": "2026-11-10T13:05:05.071Z",
   "totals": {
     "users": 10,
     "clubs": 10,
@@ -9,9 +9,9 @@
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 51,
-    "unique_visitors": 20,
-    "unique_visitors_in_period": 20
+    "page_views": 52,
+    "unique_visitors": 21,
+    "unique_visitors_in_period": 21
   },
   "days": 30,
   "sources": {
@@ -492,8 +492,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 5,
-      "unique_visitors": 4
+      "page_views": 6,
+      "unique_visitors": 5
     }
   ]
 }
