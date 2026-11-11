@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:05:04.794Z",
+  "generated_at": "2026-11-11T18:05:04.678Z",
   "totals": {
     "users": 10,
     "clubs": 10,
@@ -9,7 +9,7 @@
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 60,
+    "page_views": 63,
     "unique_visitors": 28,
     "unique_visitors_in_period": 28
   },
@@ -23,7 +23,7 @@
       },
       {
         "value": "lovable.dev",
-        "views": 14,
+        "views": 17,
         "visitors": 2
       },
       {
@@ -55,14 +55,14 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 51,
+        "views": 54,
         "visitors": 19
       }
     ],
     "top_pages": [
       {
         "value": "/",
-        "views": 37,
+        "views": 40,
         "visitors": 19
       },
       {
@@ -101,12 +101,12 @@
     "countries": [
       {
         "value": "DK",
-        "views": 38,
+        "views": 40,
         "visitors": 13
       },
       {
         "value": "(none)",
-        "views": 10,
+        "views": 11,
         "visitors": 5
       },
       {
@@ -128,7 +128,7 @@
       },
       {
         "value": "desktop",
-        "views": 19,
+        "views": 22,
         "visitors": 5
       },
       {
@@ -140,7 +140,7 @@
     "browsers": [
       {
         "value": "Chrome",
-        "views": 24,
+        "views": 27,
         "visitors": 9
       },
       {
@@ -166,14 +166,14 @@
     ],
     "os": [
       {
+        "value": "Windows",
+        "views": 22,
+        "visitors": 5
+      },
+      {
         "value": "iOS",
         "views": 19,
         "visitors": 6
-      },
-      {
-        "value": "Windows",
-        "views": 19,
-        "visitors": 5
       },
       {
         "value": "(none)",
@@ -189,7 +189,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 39,
+        "views": 42,
         "visitors": 11
       },
       {
@@ -502,8 +502,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 4,
-      "unique_visitors": 3
+      "page_views": 7,
+      "unique_visitors": 5
     }
   ]
 }
