@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-12T11:05:06.847Z",
+  "generated_at": "2026-11-12T12:05:06.293Z",
   "totals": {
-    "users": 20,
-    "clubs": 17,
-    "players": 112,
+    "users": 21,
+    "clubs": 18,
+    "players": 116,
     "events": 32,
     "events_closed": 21,
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 264,
-    "unique_visitors": 106,
-    "unique_visitors_in_period": 106
+    "page_views": 283,
+    "unique_visitors": 112,
+    "unique_visitors_in_period": 112
   },
   "days": 365,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 137,
-        "visitors": 42
+        "views": 154,
+        "visitors": 46
       },
       {
         "value": "facebook.com",
-        "views": 32,
-        "visitors": 28
+        "views": 33,
+        "visitors": 29
       },
       {
         "value": "oauth.lovable.app",
@@ -80,8 +80,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 250,
-        "visitors": 94
+        "views": 268,
+        "visitors": 99
       },
       {
         "value": "facebook",
@@ -92,18 +92,18 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 121,
-        "visitors": 84
+        "views": 124,
+        "visitors": 87
       },
       {
         "value": "/dashboard",
-        "views": 39,
-        "visitors": 16
+        "views": 41,
+        "visitors": 17
       },
       {
         "value": "/auth",
-        "views": 24,
-        "visitors": 22
+        "views": 27,
+        "visitors": 25
       },
       {
         "value": "/da",
@@ -112,8 +112,8 @@
       },
       {
         "value": "/menu",
-        "views": 14,
-        "visitors": 6
+        "views": 15,
+        "visitors": 7
       },
       {
         "value": "/about",
@@ -131,6 +131,21 @@
         "visitors": 2
       },
       {
+        "value": "/events/f420fb7f-111a-4656-97cb-4f323171d088",
+        "views": 3,
+        "visitors": 1
+      },
+      {
+        "value": "/privacy",
+        "views": 3,
+        "visitors": 3
+      },
+      {
+        "value": "/groups/e9681055-33ce-4792-ba5b-f39fe1beebae",
+        "views": 3,
+        "visitors": 2
+      },
+      {
         "value": "/groups/09216332-4635-4066-8cfa-20cbec29357a",
         "views": 3,
         "visitors": 2
@@ -141,19 +156,9 @@
         "visitors": 2
       },
       {
-        "value": "/groups/e9681055-33ce-4792-ba5b-f39fe1beebae",
+        "value": "/groups/5ef74821-e736-43d0-b808-739ad16c381d",
         "views": 3,
-        "visitors": 2
-      },
-      {
-        "value": "/privacy",
-        "views": 3,
-        "visitors": 3
-      },
-      {
-        "value": "/groups/0f023132-01f2-4abb-99e1-cf442140954b",
-        "views": 2,
-        "visitors": 2
+        "visitors": 1
       },
       {
         "value": "/events/964806fa-c260-456d-81c2-2c534c5c36fb",
@@ -166,12 +171,17 @@
         "visitors": 2
       },
       {
-        "value": "/groups/615b28bb-14b2-409c-b40c-032026b36f54",
+        "value": "/groups/0f023132-01f2-4abb-99e1-cf442140954b",
+        "views": 2,
+        "visitors": 2
+      },
+      {
+        "value": "/dk",
         "views": 1,
         "visitors": 1
       },
       {
-        "value": "/help",
+        "value": "/groups/0e1d5a11-9518-45d9-b779-6d2890d97432",
         "views": 1,
         "visitors": 1
       },
@@ -181,7 +191,7 @@
         "visitors": 1
       },
       {
-        "value": "/dk",
+        "value": "/groups/615b28bb-14b2-409c-b40c-032026b36f54",
         "views": 1,
         "visitors": 1
       },
@@ -191,7 +201,17 @@
         "visitors": 1
       },
       {
-        "value": "/groups/0e1d5a11-9518-45d9-b779-6d2890d97432",
+        "value": "/groups/ebf5f4c2-d39c-427d-9995-e2c1d50b0811",
+        "views": 1,
+        "visitors": 1
+      },
+      {
+        "value": "/claim/7d1de0b722a84d18a97169ef2ddd326b5a0a3a16",
+        "views": 1,
+        "visitors": 1
+      },
+      {
+        "value": "/help",
         "views": 1,
         "visitors": 1
       }
@@ -201,8 +221,8 @@
     "countries": [
       {
         "value": "DK",
-        "views": 213,
-        "visitors": 74
+        "views": 230,
+        "visitors": 78
       },
       {
         "value": "(none)",
@@ -216,8 +236,8 @@
       },
       {
         "value": "ES",
-        "views": 8,
-        "visitors": 3
+        "views": 9,
+        "visitors": 4
       },
       {
         "value": "DE",
@@ -248,8 +268,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 167,
-        "visitors": 69
+        "views": 185,
+        "visitors": 74
       },
       {
         "value": "desktop",
@@ -275,13 +295,13 @@
       },
       {
         "value": "Other",
-        "views": 71,
-        "visitors": 19
+        "views": 88,
+        "visitors": 23
       },
       {
         "value": "Safari",
-        "views": 62,
-        "visitors": 31
+        "views": 63,
+        "visitors": 32
       },
       {
         "value": "Firefox",
@@ -302,8 +322,8 @@
     "os": [
       {
         "value": "iOS",
-        "views": 134,
-        "visitors": 51
+        "views": 152,
+        "visitors": 56
       },
       {
         "value": "Windows",
@@ -329,8 +349,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 203,
-        "visitors": 68
+        "views": 221,
+        "visitors": 73
       },
       {
         "value": "en",
@@ -3987,13 +4007,13 @@
     },
     {
       "date": "2026-11-12",
-      "new_users": 1,
-      "new_clubs": 0,
-      "new_players": 0,
+      "new_users": 2,
+      "new_clubs": 1,
+      "new_players": 4,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 26,
-      "unique_visitors": 17
+      "page_views": 45,
+      "unique_visitors": 23
     }
   ]
 }
