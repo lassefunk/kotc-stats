@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:05:04.737Z",
+  "generated_at": "2026-11-12T11:05:05.094Z",
   "totals": {
     "users": 20,
     "clubs": 17,
@@ -9,16 +9,16 @@
     "events_ongoing": 11,
     "rounds": 363,
     "rating_changes": 1452,
-    "page_views": 262,
-    "unique_visitors": 105,
-    "unique_visitors_in_period": 105
+    "page_views": 264,
+    "unique_visitors": 106,
+    "unique_visitors_in_period": 106
   },
   "days": 30,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 136,
+        "views": 137,
         "visitors": 42
       },
       {
@@ -37,14 +37,14 @@
         "visitors": 2
       },
       {
-        "value": "lm.facebook.com",
-        "views": 12,
-        "visitors": 11
-      },
-      {
         "value": "l.facebook.com",
         "views": 12,
         "visitors": 7
+      },
+      {
+        "value": "lm.facebook.com",
+        "views": 12,
+        "visitors": 11
       },
       {
         "value": "accounts.google.com",
@@ -70,13 +70,18 @@
         "value": "com.linkedin.android",
         "views": 1,
         "visitors": 1
+      },
+      {
+        "value": "kingoftheclub.dk",
+        "views": 1,
+        "visitors": 1
       }
     ],
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 248,
-        "visitors": 93
+        "views": 250,
+        "visitors": 94
       },
       {
         "value": "facebook",
@@ -87,12 +92,12 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 120,
-        "visitors": 83
+        "views": 121,
+        "visitors": 84
       },
       {
         "value": "/dashboard",
-        "views": 38,
+        "views": 39,
         "visitors": 16
       },
       {
@@ -196,8 +201,8 @@
     "countries": [
       {
         "value": "DK",
-        "views": 211,
-        "visitors": 73
+        "views": 213,
+        "visitors": 74
       },
       {
         "value": "(none)",
@@ -243,8 +248,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 165,
-        "visitors": 68
+        "views": 167,
+        "visitors": 69
       },
       {
         "value": "desktop",
@@ -265,12 +270,12 @@
     "browsers": [
       {
         "value": "Chrome",
-        "views": 103,
-        "visitors": 38
+        "views": 104,
+        "visitors": 39
       },
       {
         "value": "Other",
-        "views": 70,
+        "views": 71,
         "visitors": 19
       },
       {
@@ -297,7 +302,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 133,
+        "views": 134,
         "visitors": 51
       },
       {
@@ -307,8 +312,8 @@
       },
       {
         "value": "Android",
-        "views": 34,
-        "visitors": 18
+        "views": 35,
+        "visitors": 19
       },
       {
         "value": "macOS",
@@ -324,8 +329,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 201,
-        "visitors": 67
+        "views": 203,
+        "visitors": 68
       },
       {
         "value": "en",
@@ -637,8 +642,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 24,
-      "unique_visitors": 15
+      "page_views": 26,
+      "unique_visitors": 17
     }
   ]
 }
