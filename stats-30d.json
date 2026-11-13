@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:05:05.346Z",
+  "generated_at": "2026-11-13T13:05:05.110Z",
   "totals": {
     "users": 26,
     "clubs": 22,
@@ -9,7 +9,7 @@
     "events_ongoing": 11,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 480,
+    "page_views": 482,
     "unique_visitors": 146,
     "unique_visitors_in_period": 146
   },
@@ -18,7 +18,7 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 318,
+        "views": 320,
         "visitors": 58
       },
       {
@@ -80,7 +80,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 454,
+        "views": 456,
         "visitors": 124
       },
       {
@@ -97,7 +97,7 @@
       },
       {
         "value": "/dashboard",
-        "views": 94,
+        "views": 95,
         "visitors": 23
       },
       {
@@ -221,7 +221,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 408,
+        "views": 410,
         "visitors": 100
       },
       {
@@ -278,7 +278,7 @@
       },
       {
         "value": "desktop",
-        "views": 111,
+        "views": 113,
         "visitors": 26
       },
       {
@@ -300,7 +300,7 @@
       },
       {
         "value": "Chrome",
-        "views": 143,
+        "views": 145,
         "visitors": 46
       },
       {
@@ -332,7 +332,7 @@
       },
       {
         "value": "Windows",
-        "views": 101,
+        "views": 103,
         "visitors": 22
       },
       {
@@ -354,7 +354,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 394,
+        "views": 396,
         "visitors": 91
       },
       {
@@ -667,7 +667,7 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 51,
+      "page_views": 53,
       "unique_visitors": 18
     }
   ]
