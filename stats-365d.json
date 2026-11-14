@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:05:06.521Z",
+  "generated_at": "2026-11-14T09:05:06.805Z",
   "totals": {
     "users": 26,
     "clubs": 22,
@@ -9,17 +9,17 @@
     "events_ongoing": 11,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 525,
-    "unique_visitors": 153,
-    "unique_visitors_in_period": 153
+    "page_views": 527,
+    "unique_visitors": 154,
+    "unique_visitors_in_period": 154
   },
   "days": 365,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 358,
-        "visitors": 61
+        "views": 359,
+        "visitors": 62
       },
       {
         "value": "facebook.com",
@@ -33,7 +33,7 @@
       },
       {
         "value": "lovable.dev",
-        "views": 22,
+        "views": 23,
         "visitors": 3
       },
       {
@@ -80,8 +80,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 497,
-        "visitors": 129
+        "views": 499,
+        "visitors": 130
       },
       {
         "value": "facebook",
@@ -92,8 +92,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 166,
-        "visitors": 112
+        "views": 168,
+        "visitors": 113
       },
       {
         "value": "/dashboard",
@@ -221,7 +221,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 450,
+        "views": 451,
         "visitors": 104
       },
       {
@@ -231,8 +231,8 @@
       },
       {
         "value": "US",
-        "views": 11,
-        "visitors": 10
+        "views": 12,
+        "visitors": 11
       },
       {
         "value": "ES",
@@ -278,8 +278,8 @@
       },
       {
         "value": "desktop",
-        "views": 114,
-        "visitors": 27
+        "views": 116,
+        "visitors": 28
       },
       {
         "value": "tablet",
@@ -300,8 +300,8 @@
       },
       {
         "value": "Chrome",
-        "views": 146,
-        "visitors": 47
+        "views": 148,
+        "visitors": 48
       },
       {
         "value": "Safari",
@@ -332,8 +332,8 @@
       },
       {
         "value": "Windows",
-        "views": 104,
-        "visitors": 23
+        "views": 106,
+        "visitors": 24
       },
       {
         "value": "Android",
@@ -354,13 +354,13 @@
     "languages": [
       {
         "value": "da",
-        "views": 436,
+        "views": 437,
         "visitors": 95
       },
       {
         "value": "en",
-        "views": 57,
-        "visitors": 32
+        "views": 58,
+        "visitors": 33
       },
       {
         "value": "(none)",
@@ -4017,8 +4017,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 13,
-      "unique_visitors": 4
+      "page_views": 15,
+      "unique_visitors": 6
     }
   ]
 }
