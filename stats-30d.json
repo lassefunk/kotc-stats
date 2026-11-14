@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:05:05.145Z",
+  "generated_at": "2026-11-14T10:05:05.082Z",
   "totals": {
     "users": 26,
     "clubs": 22,
@@ -9,17 +9,17 @@
     "events_ongoing": 11,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 527,
-    "unique_visitors": 154,
-    "unique_visitors_in_period": 154
+    "page_views": 528,
+    "unique_visitors": 155,
+    "unique_visitors_in_period": 155
   },
   "days": 30,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 359,
-        "visitors": 62
+        "views": 360,
+        "visitors": 63
       },
       {
         "value": "facebook.com",
@@ -80,8 +80,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 499,
-        "visitors": 130
+        "views": 500,
+        "visitors": 131
       },
       {
         "value": "facebook",
@@ -92,8 +92,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 168,
-        "visitors": 113
+        "views": 169,
+        "visitors": 114
       },
       {
         "value": "/dashboard",
@@ -245,13 +245,13 @@
         "visitors": 2
       },
       {
-        "value": "AU",
+        "value": "SE",
         "views": 2,
-        "visitors": 1
+        "visitors": 2
       },
       {
-        "value": "SE",
-        "views": 1,
+        "value": "AU",
+        "views": 2,
         "visitors": 1
       },
       {
@@ -273,8 +273,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 367,
-        "visitors": 94
+        "views": 368,
+        "visitors": 95
       },
       {
         "value": "desktop",
@@ -295,8 +295,8 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 257,
-        "visitors": 37
+        "views": 258,
+        "visitors": 38
       },
       {
         "value": "Chrome",
@@ -327,8 +327,8 @@
     "os": [
       {
         "value": "iOS",
-        "views": 342,
-        "visitors": 79
+        "views": 343,
+        "visitors": 80
       },
       {
         "value": "Windows",
@@ -354,8 +354,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 437,
-        "visitors": 95
+        "views": 438,
+        "visitors": 96
       },
       {
         "value": "en",
@@ -667,8 +667,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 15,
-      "unique_visitors": 6
+      "page_views": 16,
+      "unique_visitors": 7
     }
   ]
 }
