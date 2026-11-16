@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:05:06.629Z",
+  "generated_at": "2026-11-16T16:05:06.234Z",
   "totals": {
     "users": 28,
     "clubs": 23,
@@ -9,7 +9,7 @@
     "events_ongoing": 11,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 638,
+    "page_views": 640,
     "unique_visitors": 169,
     "unique_visitors_in_period": 169
   },
@@ -48,12 +48,12 @@
       },
       {
         "value": "appleid.apple.com",
-        "views": 10,
+        "views": 11,
         "visitors": 1
       },
       {
         "value": "google.com",
-        "views": 8,
+        "views": 9,
         "visitors": 4
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 610,
+        "views": 612,
         "visitors": 145
       },
       {
@@ -97,12 +97,12 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 196,
+        "views": 197,
         "visitors": 128
       },
       {
         "value": "/dashboard",
-        "views": 141,
+        "views": 142,
         "visitors": 26
       },
       {
@@ -226,7 +226,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 559,
+        "views": 561,
         "visitors": 116
       },
       {
@@ -278,7 +278,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 459,
+        "views": 461,
         "visitors": 104
       },
       {
@@ -305,12 +305,12 @@
       },
       {
         "value": "Chrome",
-        "views": 165,
+        "views": 166,
         "visitors": 54
       },
       {
         "value": "Safari",
-        "views": 91,
+        "views": 92,
         "visitors": 45
       },
       {
@@ -332,7 +332,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 439,
+        "views": 441,
         "visitors": 89
       },
       {
@@ -359,7 +359,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 543,
+        "views": 545,
         "visitors": 107
       },
       {
@@ -4022,7 +4022,7 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 56,
+      "page_views": 58,
       "unique_visitors": 12
     }
   ]
