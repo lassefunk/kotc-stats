@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:05:06.693Z",
+  "generated_at": "2026-11-18T14:05:06.593Z",
   "totals": {
     "users": 28,
     "clubs": 23,
@@ -9,7 +9,7 @@
     "events_ongoing": 12,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 707,
+    "page_views": 715,
     "unique_visitors": 188,
     "unique_visitors_in_period": 188
   },
@@ -18,7 +18,7 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 491,
+        "views": 499,
         "visitors": 76
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 670,
+        "views": 678,
         "visitors": 156
       },
       {
@@ -102,7 +102,7 @@
       },
       {
         "value": "/dashboard",
-        "views": 154,
+        "views": 156,
         "visitors": 26
       },
       {
@@ -112,7 +112,7 @@
       },
       {
         "value": "/groups/5ef74821-e736-43d0-b808-739ad16c381d",
-        "views": 44,
+        "views": 46,
         "visitors": 7
       },
       {
@@ -136,14 +136,14 @@
         "visitors": 4
       },
       {
+        "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
+        "views": 11,
+        "visitors": 2
+      },
+      {
         "value": "/events/2bbf0355-ac7e-4a8a-ae25-982e5cc683ef",
         "views": 9,
         "visitors": 3
-      },
-      {
-        "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
-        "views": 9,
-        "visitors": 2
       },
       {
         "value": "/groups/615b28bb-14b2-409c-b40c-032026b36f54",
@@ -166,14 +166,14 @@
         "visitors": 1
       },
       {
+        "value": "/events/78f00650-6e5c-444a-b074-92b3ad022529",
+        "views": 7,
+        "visitors": 2
+      },
+      {
         "value": "/terms",
         "views": 6,
         "visitors": 3
-      },
-      {
-        "value": "/events/78f00650-6e5c-444a-b074-92b3ad022529",
-        "views": 6,
-        "visitors": 2
       },
       {
         "value": "/groups/09216332-4635-4066-8cfa-20cbec29357a",
@@ -182,6 +182,11 @@
       },
       {
         "value": "/events/678a244e-6eb2-4920-bf5d-2d1b830bed12",
+        "views": 4,
+        "visitors": 2
+      },
+      {
+        "value": "/events/b894a91e-6ad1-4902-a976-9af59080251c",
         "views": 4,
         "visitors": 2
       },
@@ -206,11 +211,6 @@
         "visitors": 2
       },
       {
-        "value": "/groups/ffc41818-e4ac-4293-afb3-a1f2c0341aa0",
-        "views": 3,
-        "visitors": 2
-      },
-      {
         "value": "/players/92d85aa3-824f-40db-b034-a4bca2ad2374",
         "views": 3,
         "visitors": 1
@@ -226,7 +226,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 609,
+        "views": 617,
         "visitors": 120
       },
       {
@@ -283,7 +283,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 511,
+        "views": 519,
         "visitors": 107
       },
       {
@@ -305,7 +305,7 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 383,
+        "views": 391,
         "visitors": 43
       },
       {
@@ -337,7 +337,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 491,
+        "views": 499,
         "visitors": 92
       },
       {
@@ -369,7 +369,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 596,
+        "views": 604,
         "visitors": 111
       },
       {
@@ -4032,7 +4032,7 @@
       "new_players": 1,
       "new_events": 1,
       "rounds_played": 0,
-      "page_views": 40,
+      "page_views": 48,
       "unique_visitors": 12
     }
   ]
