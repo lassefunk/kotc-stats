@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:05:06.282Z",
+  "generated_at": "2026-11-18T13:05:06.693Z",
   "totals": {
     "users": 28,
     "clubs": 23,
@@ -9,17 +9,17 @@
     "events_ongoing": 12,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 693,
-    "unique_visitors": 181,
-    "unique_visitors_in_period": 181
+    "page_views": 707,
+    "unique_visitors": 188,
+    "unique_visitors_in_period": 188
   },
   "days": 365,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 487,
-        "visitors": 75
+        "views": 491,
+        "visitors": 76
       },
       {
         "value": "facebook.com",
@@ -33,8 +33,8 @@
       },
       {
         "value": "lovable.dev",
-        "views": 26,
-        "visitors": 5
+        "views": 29,
+        "visitors": 6
       },
       {
         "value": "l.facebook.com",
@@ -85,8 +85,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 663,
-        "visitors": 155
+        "views": 670,
+        "visitors": 156
       },
       {
         "value": "facebook",
@@ -97,8 +97,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 212,
-        "visitors": 137
+        "views": 216,
+        "visitors": 138
       },
       {
         "value": "/dashboard",
@@ -141,6 +141,11 @@
         "visitors": 3
       },
       {
+        "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
+        "views": 9,
+        "visitors": 2
+      },
+      {
         "value": "/groups/615b28bb-14b2-409c-b40c-032026b36f54",
         "views": 8,
         "visitors": 3
@@ -156,11 +161,6 @@
         "visitors": 7
       },
       {
-        "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
-        "views": 8,
-        "visitors": 2
-      },
-      {
         "value": "/groups/6577623e-da31-49b3-be91-f71aefaf522a",
         "views": 8,
         "visitors": 1
@@ -169,6 +169,11 @@
         "value": "/terms",
         "views": 6,
         "visitors": 3
+      },
+      {
+        "value": "/events/78f00650-6e5c-444a-b074-92b3ad022529",
+        "views": 6,
+        "visitors": 2
       },
       {
         "value": "/groups/09216332-4635-4066-8cfa-20cbec29357a",
@@ -186,12 +191,12 @@
         "visitors": 2
       },
       {
-        "value": "/groups/bb6f8525-d6d1-4199-a067-17ee55e31425",
+        "value": "/groups/0f023132-01f2-4abb-99e1-cf442140954b",
         "views": 4,
         "visitors": 2
       },
       {
-        "value": "/groups/0f023132-01f2-4abb-99e1-cf442140954b",
+        "value": "/groups/bb6f8525-d6d1-4199-a067-17ee55e31425",
         "views": 4,
         "visitors": 2
       },
@@ -201,24 +206,19 @@
         "visitors": 2
       },
       {
-        "value": "/events/78f00650-6e5c-444a-b074-92b3ad022529",
-        "views": 4,
+        "value": "/groups/ffc41818-e4ac-4293-afb3-a1f2c0341aa0",
+        "views": 3,
         "visitors": 2
-      },
-      {
-        "value": "/privacy",
-        "views": 3,
-        "visitors": 3
-      },
-      {
-        "value": "/events/3b4d51d6-5d35-4545-81da-6a64a64662b6",
-        "views": 3,
-        "visitors": 1
       },
       {
         "value": "/players/92d85aa3-824f-40db-b034-a4bca2ad2374",
         "views": 3,
         "visitors": 1
+      },
+      {
+        "value": "/help",
+        "views": 3,
+        "visitors": 3
       }
     ]
   },
@@ -226,13 +226,13 @@
     "countries": [
       {
         "value": "DK",
-        "views": 606,
+        "views": 609,
         "visitors": 120
       },
       {
         "value": "(none)",
-        "views": 17,
-        "visitors": 6
+        "views": 21,
+        "visitors": 7
       },
       {
         "value": "US",
@@ -283,8 +283,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 504,
-        "visitors": 106
+        "views": 511,
+        "visitors": 107
       },
       {
         "value": "desktop",
@@ -305,8 +305,8 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 376,
-        "visitors": 42
+        "views": 383,
+        "visitors": 43
       },
       {
         "value": "Chrome",
@@ -337,8 +337,8 @@
     "os": [
       {
         "value": "iOS",
-        "views": 484,
-        "visitors": 91
+        "views": 491,
+        "visitors": 92
       },
       {
         "value": "Windows",
@@ -369,8 +369,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 589,
-        "visitors": 110
+        "views": 596,
+        "visitors": 111
       },
       {
         "value": "en",
@@ -4032,8 +4032,8 @@
       "new_players": 1,
       "new_events": 1,
       "rounds_played": 0,
-      "page_views": 26,
-      "unique_visitors": 5
+      "page_views": 40,
+      "unique_visitors": 12
     }
   ]
 }
