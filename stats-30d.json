@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:05:04.495Z",
+  "generated_at": "2026-11-18T06:05:04.514Z",
   "totals": {
     "users": 28,
     "clubs": 23,
@@ -9,17 +9,17 @@
     "events_ongoing": 12,
     "rounds": 369,
     "rating_changes": 1476,
-    "page_views": 667,
-    "unique_visitors": 178,
-    "unique_visitors_in_period": 178
+    "page_views": 668,
+    "unique_visitors": 179,
+    "unique_visitors_in_period": 179
   },
   "days": 30,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 463,
-        "visitors": 74
+        "views": 464,
+        "visitors": 75
       },
       {
         "value": "facebook.com",
@@ -85,8 +85,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 637,
-        "visitors": 152
+        "views": 638,
+        "visitors": 153
       },
       {
         "value": "facebook",
@@ -97,8 +97,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 207,
-        "visitors": 134
+        "views": 208,
+        "visitors": 135
       },
       {
         "value": "/dashboard",
@@ -250,14 +250,14 @@
         "visitors": 3
       },
       {
+        "value": "CA",
+        "views": 3,
+        "visitors": 3
+      },
+      {
         "value": "AU",
         "views": 2,
         "visitors": 1
-      },
-      {
-        "value": "CA",
-        "views": 2,
-        "visitors": 2
       },
       {
         "value": "SE",
@@ -288,8 +288,8 @@
       },
       {
         "value": "desktop",
-        "views": 136,
-        "visitors": 39
+        "views": 137,
+        "visitors": 40
       },
       {
         "value": "tablet",
@@ -310,8 +310,8 @@
       },
       {
         "value": "Chrome",
-        "views": 170,
-        "visitors": 58
+        "views": 171,
+        "visitors": 59
       },
       {
         "value": "Safari",
@@ -342,8 +342,8 @@
       },
       {
         "value": "Windows",
-        "views": 117,
-        "visitors": 30
+        "views": 118,
+        "visitors": 31
       },
       {
         "value": "Android",
@@ -374,8 +374,8 @@
       },
       {
         "value": "en",
-        "views": 68,
-        "visitors": 41
+        "views": 69,
+        "visitors": 42
       },
       {
         "value": "(none)",
@@ -682,8 +682,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 0,
-      "unique_visitors": 0
+      "page_views": 1,
+      "unique_visitors": 1
     }
   ]
 }
