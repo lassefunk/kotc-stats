@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:05:04.452Z",
+  "generated_at": "2026-11-20T22:05:04.540Z",
   "totals": {
     "users": 32,
     "clubs": 28,
@@ -9,17 +9,17 @@
     "events_ongoing": 21,
     "rounds": 446,
     "rating_changes": 1784,
-    "page_views": 1070,
-    "unique_visitors": 326,
-    "unique_visitors_in_period": 326
+    "page_views": 1071,
+    "unique_visitors": 327,
+    "unique_visitors_in_period": 327
   },
   "days": 30,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 642,
-        "visitors": 100
+        "views": 643,
+        "visitors": 101
       },
       {
         "value": "lovable.dev",
@@ -85,8 +85,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 910,
-        "visitors": 193
+        "views": 911,
+        "visitors": 194
       },
       {
         "value": "fb",
@@ -102,8 +102,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 314,
-        "visitors": 175
+        "views": 315,
+        "visitors": 176
       },
       {
         "value": "/dashboard",
@@ -275,12 +275,12 @@
         "visitors": 1
       },
       {
-        "value": "HK",
-        "views": 1,
-        "visitors": 1
+        "value": "IT",
+        "views": 2,
+        "visitors": 2
       },
       {
-        "value": "IT",
+        "value": "HK",
         "views": 1,
         "visitors": 1
       },
@@ -303,8 +303,8 @@
       },
       {
         "value": "desktop",
-        "views": 228,
-        "visitors": 54
+        "views": 229,
+        "visitors": 55
       },
       {
         "value": "tablet",
@@ -325,8 +325,8 @@
       },
       {
         "value": "Chrome",
-        "views": 292,
-        "visitors": 78
+        "views": 293,
+        "visitors": 79
       },
       {
         "value": "Safari",
@@ -377,8 +377,8 @@
       },
       {
         "value": "Linux",
-        "views": 4,
-        "visitors": 4
+        "views": 5,
+        "visitors": 5
       },
       {
         "value": "Other",
@@ -394,8 +394,8 @@
       },
       {
         "value": "en",
-        "views": 88,
-        "visitors": 60
+        "views": 89,
+        "visitors": 61
       },
       {
         "value": "(none)",
@@ -707,8 +707,8 @@
       "new_players": 86,
       "new_events": 20,
       "rounds_played": 65,
-      "page_views": 100,
-      "unique_visitors": 17
+      "page_views": 101,
+      "unique_visitors": 18
     }
   ]
 }
