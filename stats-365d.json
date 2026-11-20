@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:05:06.308Z",
+  "generated_at": "2026-11-20T18:05:06.186Z",
   "totals": {
     "users": 31,
     "clubs": 27,
@@ -9,7 +9,7 @@
     "events_ongoing": 19,
     "rounds": 434,
     "rating_changes": 1736,
-    "page_views": 1043,
+    "page_views": 1044,
     "unique_visitors": 324,
     "unique_visitors_in_period": 324
   },
@@ -38,7 +38,7 @@
       },
       {
         "value": "appleid.apple.com",
-        "views": 31,
+        "views": 32,
         "visitors": 3
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 884,
+        "views": 885,
         "visitors": 191
       },
       {
@@ -221,7 +221,7 @@
         "visitors": 2
       },
       {
-        "value": "/groups/0f023132-01f2-4abb-99e1-cf442140954b",
+        "value": "/groups/bb6f8525-d6d1-4199-a067-17ee55e31425",
         "views": 4,
         "visitors": 2
       }
@@ -231,7 +231,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 772,
+        "views": 773,
         "visitors": 137
       },
       {
@@ -298,7 +298,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 621,
+        "views": 622,
         "visitors": 129
       },
       {
@@ -330,7 +330,7 @@
       },
       {
         "value": "Safari",
-        "views": 121,
+        "views": 122,
         "visitors": 56
       },
       {
@@ -352,7 +352,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 605,
+        "views": 606,
         "visitors": 113
       },
       {
@@ -389,7 +389,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 796,
+        "views": 797,
         "visitors": 133
       },
       {
@@ -4057,7 +4057,7 @@
       "new_players": 74,
       "new_events": 16,
       "rounds_played": 53,
-      "page_views": 73,
+      "page_views": 74,
       "unique_visitors": 15
     }
   ]
