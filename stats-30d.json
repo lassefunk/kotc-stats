@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:05:04.959Z",
+  "generated_at": "2026-11-20T06:05:04.418Z",
   "totals": {
     "users": 29,
     "clubs": 23,
@@ -9,9 +9,9 @@
     "events_ongoing": 13,
     "rounds": 381,
     "rating_changes": 1524,
-    "page_views": 972,
-    "unique_visitors": 313,
-    "unique_visitors_in_period": 313
+    "page_views": 973,
+    "unique_visitors": 314,
+    "unique_visitors_in_period": 314
   },
   "days": 30,
   "sources": {
@@ -52,14 +52,14 @@
         "visitors": 13
       },
       {
+        "value": "m.facebook.com",
+        "views": 12,
+        "visitors": 11
+      },
+      {
         "value": "appleid.apple.com",
         "views": 11,
         "visitors": 1
-      },
-      {
-        "value": "m.facebook.com",
-        "views": 11,
-        "visitors": 10
       },
       {
         "value": "linkedin.com",
@@ -95,15 +95,15 @@
       },
       {
         "value": "fb",
-        "views": 1,
-        "visitors": 1
+        "views": 2,
+        "visitors": 2
       }
     ],
     "top_pages": [
       {
         "value": "/",
-        "views": 294,
-        "visitors": 164
+        "views": 295,
+        "visitors": 165
       },
       {
         "value": "/dashboard",
@@ -231,8 +231,8 @@
     "countries": [
       {
         "value": "DK",
-        "views": 704,
-        "visitors": 129
+        "views": 705,
+        "visitors": 130
       },
       {
         "value": "(none)",
@@ -298,8 +298,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 568,
-        "visitors": 122
+        "views": 569,
+        "visitors": 123
       },
       {
         "value": "desktop",
@@ -325,8 +325,8 @@
       },
       {
         "value": "Chrome",
-        "views": 256,
-        "visitors": 70
+        "views": 257,
+        "visitors": 71
       },
       {
         "value": "Safari",
@@ -362,8 +362,8 @@
       },
       {
         "value": "Android",
-        "views": 39,
-        "visitors": 23
+        "views": 40,
+        "visitors": 24
       },
       {
         "value": "macOS",
@@ -389,8 +389,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 728,
-        "visitors": 125
+        "views": 729,
+        "visitors": 126
       },
       {
         "value": "en",
@@ -707,8 +707,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 2,
-      "unique_visitors": 2
+      "page_views": 3,
+      "unique_visitors": 3
     }
   ]
 }
