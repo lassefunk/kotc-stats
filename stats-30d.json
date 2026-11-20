@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:05:04.578Z",
+  "generated_at": "2026-11-20T20:05:04.789Z",
   "totals": {
     "users": 31,
     "clubs": 27,
@@ -9,17 +9,17 @@
     "events_ongoing": 19,
     "rounds": 434,
     "rating_changes": 1736,
-    "page_views": 1058,
-    "unique_visitors": 324,
-    "unique_visitors_in_period": 324
+    "page_views": 1059,
+    "unique_visitors": 325,
+    "unique_visitors_in_period": 325
   },
   "days": 30,
   "sources": {
     "referrers": [
       {
         "value": "(none)",
-        "views": 638,
-        "visitors": 99
+        "views": 639,
+        "visitors": 100
       },
       {
         "value": "lovable.dev",
@@ -85,8 +85,8 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 899,
-        "visitors": 191
+        "views": 900,
+        "visitors": 192
       },
       {
         "value": "fb",
@@ -102,8 +102,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 311,
-        "visitors": 173
+        "views": 312,
+        "visitors": 174
       },
       {
         "value": "/dashboard",
@@ -241,8 +241,8 @@
       },
       {
         "value": "US",
-        "views": 29,
-        "visitors": 27
+        "views": 30,
+        "visitors": 28
       },
       {
         "value": "ES",
@@ -303,8 +303,8 @@
       },
       {
         "value": "desktop",
-        "views": 227,
-        "visitors": 53
+        "views": 228,
+        "visitors": 54
       },
       {
         "value": "tablet",
@@ -325,8 +325,8 @@
       },
       {
         "value": "Chrome",
-        "views": 283,
-        "visitors": 76
+        "views": 284,
+        "visitors": 77
       },
       {
         "value": "Safari",
@@ -377,8 +377,8 @@
       },
       {
         "value": "Linux",
-        "views": 3,
-        "visitors": 3
+        "views": 4,
+        "visitors": 4
       },
       {
         "value": "Other",
@@ -394,8 +394,8 @@
       },
       {
         "value": "en",
-        "views": 87,
-        "visitors": 59
+        "views": 88,
+        "visitors": 60
       },
       {
         "value": "(none)",
@@ -707,8 +707,8 @@
       "new_players": 74,
       "new_events": 16,
       "rounds_played": 53,
-      "page_views": 88,
-      "unique_visitors": 15
+      "page_views": 89,
+      "unique_visitors": 16
     }
   ]
 }
