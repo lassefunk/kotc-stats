@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:05:06.387Z",
+  "generated_at": "2026-11-20T00:05:06.517Z",
   "totals": {
     "users": 29,
     "clubs": 23,
@@ -410,16 +410,6 @@
     ]
   },
   "daily": [
-    {
-      "date": "2025-11-20",
-      "new_users": 0,
-      "new_clubs": 0,
-      "new_players": 0,
-      "new_events": 0,
-      "rounds_played": 0,
-      "page_views": 0,
-      "unique_visitors": 0
-    },
     {
       "date": "2025-11-21",
       "new_users": 0,
@@ -4059,6 +4049,16 @@
       "rounds_played": 12,
       "page_views": 210,
       "unique_visitors": 111
+    },
+    {
+      "date": "2026-11-20",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
     }
   ]
 }
