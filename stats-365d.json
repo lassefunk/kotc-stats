@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-22T02:05:06.359Z",
+  "generated_at": "2026-11-22T03:05:05.871Z",
   "totals": {
     "users": 32,
-    "clubs": 28,
-    "players": 216,
-    "events": 60,
-    "events_closed": 39,
-    "events_ongoing": 21,
-    "rounds": 446,
-    "rating_changes": 1784,
-    "page_views": 1093,
+    "clubs": 29,
+    "players": 228,
+    "events": 63,
+    "events_closed": 41,
+    "events_ongoing": 22,
+    "rounds": 458,
+    "rating_changes": 1832,
+    "page_views": 1095,
     "unique_visitors": 334,
     "unique_visitors_in_period": 334
   },
@@ -18,7 +18,7 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 659,
+        "views": 661,
         "visitors": 104
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 929,
+        "views": 931,
         "visitors": 199
       },
       {
@@ -102,12 +102,12 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 322,
+        "views": 323,
         "visitors": 181
       },
       {
         "value": "/dashboard",
-        "views": 204,
+        "views": 205,
         "visitors": 31
       },
       {
@@ -245,14 +245,14 @@
         "visitors": 30
       },
       {
+        "value": "DE",
+        "views": 10,
+        "visitors": 3
+      },
+      {
         "value": "ES",
         "views": 9,
         "visitors": 4
-      },
-      {
-        "value": "DE",
-        "views": 8,
-        "visitors": 3
       },
       {
         "value": "CA",
@@ -303,7 +303,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 664,
+        "views": 666,
         "visitors": 132
       },
       {
@@ -325,7 +325,7 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 487,
+        "views": 489,
         "visitors": 56
       },
       {
@@ -357,7 +357,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 634,
+        "views": 636,
         "visitors": 114
       },
       {
@@ -394,7 +394,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 838,
+        "views": 840,
         "visitors": 135
       },
       {
@@ -4058,12 +4058,12 @@
     {
       "date": "2026-11-22",
       "new_users": 0,
-      "new_clubs": 0,
-      "new_players": 0,
-      "new_events": 0,
-      "rounds_played": 0,
-      "page_views": 0,
-      "unique_visitors": 0
+      "new_clubs": 1,
+      "new_players": 12,
+      "new_events": 3,
+      "rounds_played": 12,
+      "page_views": 2,
+      "unique_visitors": 1
     }
   ]
 }
