@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:05:06.056Z",
+  "generated_at": "2026-11-22T16:05:06.518Z",
   "totals": {
     "users": 32,
     "clubs": 29,
@@ -9,9 +9,9 @@
     "events_ongoing": 22,
     "rounds": 458,
     "rating_changes": 1832,
-    "page_views": 1100,
-    "unique_visitors": 336,
-    "unique_visitors_in_period": 336
+    "page_views": 1101,
+    "unique_visitors": 337,
+    "unique_visitors_in_period": 337
   },
   "days": 365,
   "sources": {
@@ -33,8 +33,8 @@
       },
       {
         "value": "facebook.com",
-        "views": 48,
-        "visitors": 42
+        "views": 49,
+        "visitors": 43
       },
       {
         "value": "appleid.apple.com",
@@ -90,8 +90,8 @@
       },
       {
         "value": "fb",
-        "views": 7,
-        "visitors": 6
+        "views": 8,
+        "visitors": 7
       },
       {
         "value": "facebook",
@@ -102,8 +102,8 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 323,
-        "visitors": 181
+        "views": 324,
+        "visitors": 182
       },
       {
         "value": "/dashboard",
@@ -231,8 +231,8 @@
     "countries": [
       {
         "value": "DK",
-        "views": 815,
-        "visitors": 140
+        "views": 816,
+        "visitors": 141
       },
       {
         "value": "(none)",
@@ -303,8 +303,8 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 666,
-        "visitors": 132
+        "views": 667,
+        "visitors": 133
       },
       {
         "value": "desktop",
@@ -335,8 +335,8 @@
       },
       {
         "value": "Safari",
-        "views": 122,
-        "visitors": 56
+        "views": 123,
+        "visitors": 57
       },
       {
         "value": "Edge",
@@ -357,8 +357,8 @@
     "os": [
       {
         "value": "iOS",
-        "views": 636,
-        "visitors": 114
+        "views": 637,
+        "visitors": 115
       },
       {
         "value": "Windows",
@@ -394,8 +394,8 @@
     "languages": [
       {
         "value": "da",
-        "views": 840,
-        "visitors": 135
+        "views": 841,
+        "visitors": 136
       },
       {
         "value": "en",
@@ -4062,8 +4062,8 @@
       "new_players": 12,
       "new_events": 3,
       "rounds_played": 12,
-      "page_views": 7,
-      "unique_visitors": 3
+      "page_views": 8,
+      "unique_visitors": 4
     }
   ]
 }
