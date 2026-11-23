@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:05:07.533Z",
+  "generated_at": "2026-11-23T10:05:06.605Z",
   "totals": {
     "users": 32,
     "clubs": 29,
@@ -9,7 +9,7 @@
     "events_ongoing": 22,
     "rounds": 458,
     "rating_changes": 1832,
-    "page_views": 1120,
+    "page_views": 1122,
     "unique_visitors": 350,
     "unique_visitors_in_period": 350
   },
@@ -18,8 +18,8 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 667,
-        "visitors": 109
+        "views": 669,
+        "visitors": 110
       },
       {
         "value": "lovable.dev",
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 942,
+        "views": 944,
         "visitors": 206
       },
       {
@@ -102,12 +102,12 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 334,
+        "views": 335,
         "visitors": 189
       },
       {
         "value": "/dashboard",
-        "views": 205,
+        "views": 206,
         "visitors": 31
       },
       {
@@ -231,7 +231,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 822,
+        "views": 824,
         "visitors": 144
       },
       {
@@ -313,7 +313,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 676,
+        "views": 678,
         "visitors": 138
       },
       {
@@ -345,7 +345,7 @@
       },
       {
         "value": "Safari",
-        "views": 127,
+        "views": 129,
         "visitors": 58
       },
       {
@@ -367,7 +367,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 644,
+        "views": 646,
         "visitors": 118
       },
       {
@@ -404,7 +404,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 850,
+        "views": 852,
         "visitors": 141
       },
       {
@@ -4072,8 +4072,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 12,
-      "unique_visitors": 7
+      "page_views": 14,
+      "unique_visitors": 8
     }
   ]
 }
