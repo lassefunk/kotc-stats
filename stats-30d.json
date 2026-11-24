@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:05:04.564Z",
+  "generated_at": "2026-11-24T18:05:05.009Z",
   "totals": {
     "users": 33,
     "clubs": 32,
@@ -9,7 +9,7 @@
     "events_ongoing": 25,
     "rounds": 494,
     "rating_changes": 1976,
-    "page_views": 1156,
+    "page_views": 1162,
     "unique_visitors": 363,
     "unique_visitors_in_period": 363
   },
@@ -18,7 +18,7 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 689,
+        "views": 695,
         "visitors": 115
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 971,
+        "views": 977,
         "visitors": 213
       },
       {
@@ -107,7 +107,7 @@
       },
       {
         "value": "/dashboard",
-        "views": 212,
+        "views": 215,
         "visitors": 33
       },
       {
@@ -132,7 +132,7 @@
       },
       {
         "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
-        "views": 18,
+        "views": 20,
         "visitors": 3
       },
       {
@@ -231,7 +231,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 848,
+        "views": 854,
         "visitors": 149
       },
       {
@@ -313,7 +313,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 694,
+        "views": 700,
         "visitors": 143
       },
       {
@@ -335,7 +335,7 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 505,
+        "views": 511,
         "visitors": 60
       },
       {
@@ -367,7 +367,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 665,
+        "views": 671,
         "visitors": 124
       },
       {
@@ -404,7 +404,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 876,
+        "views": 882,
         "visitors": 146
       },
       {
@@ -727,7 +727,7 @@
       "new_players": 24,
       "new_events": 7,
       "rounds_played": 24,
-      "page_views": 27,
+      "page_views": 33,
       "unique_visitors": 13
     }
   ]
