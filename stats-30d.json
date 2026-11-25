@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:05:04.884Z",
+  "generated_at": "2026-11-25T21:05:04.854Z",
   "totals": {
     "users": 33,
     "clubs": 32,
@@ -9,7 +9,7 @@
     "events_ongoing": 25,
     "rounds": 494,
     "rating_changes": 1976,
-    "page_views": 1188,
+    "page_views": 1190,
     "unique_visitors": 371,
     "unique_visitors_in_period": 371
   },
@@ -18,8 +18,8 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 717,
-        "visitors": 120
+        "views": 718,
+        "visitors": 121
       },
       {
         "value": "lovable.dev",
@@ -28,8 +28,8 @@
       },
       {
         "value": "oauth.lovable.app",
-        "views": 54,
-        "visitors": 9
+        "views": 55,
+        "visitors": 10
       },
       {
         "value": "facebook.com",
@@ -72,12 +72,12 @@
         "visitors": 5
       },
       {
-        "value": "kingoftheclub.dk",
+        "value": "com.linkedin.android",
         "views": 1,
         "visitors": 1
       },
       {
-        "value": "com.linkedin.android",
+        "value": "kingoftheclub.dk",
         "views": 1,
         "visitors": 1
       }
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 999,
+        "views": 1001,
         "visitors": 218
       },
       {
@@ -102,7 +102,7 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 353,
+        "views": 354,
         "visitors": 199
       },
       {
@@ -112,8 +112,8 @@
       },
       {
         "value": "/auth",
-        "views": 67,
-        "visitors": 54
+        "views": 68,
+        "visitors": 55
       },
       {
         "value": "/groups/5ef74821-e736-43d0-b808-739ad16c381d",
@@ -231,7 +231,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 868,
+        "views": 870,
         "visitors": 150
       },
       {
@@ -318,7 +318,7 @@
       },
       {
         "value": "desktop",
-        "views": 247,
+        "views": 249,
         "visitors": 68
       },
       {
@@ -345,7 +345,7 @@
       },
       {
         "value": "Safari",
-        "views": 137,
+        "views": 139,
         "visitors": 65
       },
       {
@@ -382,7 +382,7 @@
       },
       {
         "value": "macOS",
-        "views": 34,
+        "views": 36,
         "visitors": 19
       },
       {
@@ -409,7 +409,7 @@
       },
       {
         "value": "en",
-        "views": 107,
+        "views": 109,
         "visitors": 74
       },
       {
@@ -727,8 +727,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 13,
-      "unique_visitors": 6
+      "page_views": 15,
+      "unique_visitors": 7
     }
   ]
 }
