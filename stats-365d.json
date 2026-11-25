@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:05:06.367Z",
+  "generated_at": "2026-11-25T15:05:06.746Z",
   "totals": {
     "users": 33,
     "clubs": 32,
@@ -9,7 +9,7 @@
     "events_ongoing": 25,
     "rounds": 494,
     "rating_changes": 1976,
-    "page_views": 1180,
+    "page_views": 1188,
     "unique_visitors": 371,
     "unique_visitors_in_period": 371
   },
@@ -18,7 +18,7 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 709,
+        "views": 717,
         "visitors": 120
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 991,
+        "views": 999,
         "visitors": 218
       },
       {
@@ -102,12 +102,12 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 351,
+        "views": 353,
         "visitors": 199
       },
       {
         "value": "/dashboard",
-        "views": 217,
+        "views": 220,
         "visitors": 33
       },
       {
@@ -126,13 +126,13 @@
         "visitors": 11
       },
       {
-        "value": "/groups/6577623e-da31-49b3-be91-f71aefaf522a",
-        "views": 22,
+        "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
+        "views": 23,
         "visitors": 3
       },
       {
-        "value": "/groups/28230755-9282-4e40-9357-8cf371040fea",
-        "views": 20,
+        "value": "/groups/6577623e-da31-49b3-be91-f71aefaf522a",
+        "views": 22,
         "visitors": 3
       },
       {
@@ -231,7 +231,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 860,
+        "views": 868,
         "visitors": 150
       },
       {
@@ -313,7 +313,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 710,
+        "views": 715,
         "visitors": 148
       },
       {
@@ -323,7 +323,7 @@
       },
       {
         "value": "tablet",
-        "views": 42,
+        "views": 45,
         "visitors": 12
       },
       {
@@ -335,7 +335,7 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 517,
+        "views": 525,
         "visitors": 61
       },
       {
@@ -367,7 +367,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 681,
+        "views": 689,
         "visitors": 129
       },
       {
@@ -404,7 +404,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 888,
+        "views": 896,
         "visitors": 147
       },
       {
@@ -4077,8 +4077,8 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 5,
-      "unique_visitors": 4
+      "page_views": 13,
+      "unique_visitors": 6
     }
   ]
 }
