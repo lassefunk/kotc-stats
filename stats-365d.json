@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-27T11:05:06.664Z",
+  "generated_at": "2026-11-27T12:05:06.652Z",
   "totals": {
     "users": 33,
     "clubs": 32,
     "players": 264,
-    "events": 73,
-    "events_closed": 48,
-    "events_ongoing": 25,
-    "rounds": 494,
-    "rating_changes": 1976,
-    "page_views": 1201,
+    "events": 75,
+    "events_closed": 51,
+    "events_ongoing": 24,
+    "rounds": 508,
+    "rating_changes": 2032,
+    "page_views": 1219,
     "unique_visitors": 380,
     "unique_visitors_in_period": 380
   },
@@ -18,7 +18,7 @@
     "referrers": [
       {
         "value": "(none)",
-        "views": 720,
+        "views": 738,
         "visitors": 122
       },
       {
@@ -85,7 +85,7 @@
     "utm_sources": [
       {
         "value": "(none)",
-        "views": 1003,
+        "views": 1021,
         "visitors": 219
       },
       {
@@ -102,12 +102,12 @@
     "top_pages": [
       {
         "value": "/",
-        "views": 356,
+        "views": 357,
         "visitors": 200
       },
       {
         "value": "/dashboard",
-        "views": 220,
+        "views": 226,
         "visitors": 33
       },
       {
@@ -117,7 +117,7 @@
       },
       {
         "value": "/groups/5ef74821-e736-43d0-b808-739ad16c381d",
-        "views": 47,
+        "views": 49,
         "visitors": 7
       },
       {
@@ -142,7 +142,7 @@
       },
       {
         "value": "/groups/0b54fd22-61ab-4181-892e-79264b8f8bbc",
-        "views": 15,
+        "views": 16,
         "visitors": 3
       },
       {
@@ -151,14 +151,14 @@
         "visitors": 2
       },
       {
-        "value": "/groups/fea2758d-3f47-4c44-ad83-fcd3d8a2ade2",
-        "views": 13,
-        "visitors": 4
-      },
-      {
         "value": "/groups/5763505b-8143-426e-988f-fd39de2c7fd6",
         "views": 13,
         "visitors": 2
+      },
+      {
+        "value": "/groups/fea2758d-3f47-4c44-ad83-fcd3d8a2ade2",
+        "views": 13,
+        "visitors": 4
       },
       {
         "value": "/privacy",
@@ -191,12 +191,12 @@
         "visitors": 5
       },
       {
-        "value": "/groups/d6349965-78cf-496d-8385-137474bef1d5",
+        "value": "/groups/615b28bb-14b2-409c-b40c-032026b36f54",
         "views": 8,
         "visitors": 3
       },
       {
-        "value": "/groups/615b28bb-14b2-409c-b40c-032026b36f54",
+        "value": "/groups/d6349965-78cf-496d-8385-137474bef1d5",
         "views": 8,
         "visitors": 3
       },
@@ -211,13 +211,13 @@
         "visitors": 3
       },
       {
-        "value": "/groups/ebdfc280-eb61-4d6f-96bf-1b021f189090",
+        "value": "/groups/ae862d3e-0fe7-496e-944e-4eea035de15f",
         "views": 5,
-        "visitors": 2
+        "visitors": 1
       },
       {
-        "value": "/events/678a244e-6eb2-4920-bf5d-2d1b830bed12",
-        "views": 4,
+        "value": "/groups/ebdfc280-eb61-4d6f-96bf-1b021f189090",
+        "views": 5,
         "visitors": 2
       },
       {
@@ -231,7 +231,7 @@
     "countries": [
       {
         "value": "DK",
-        "views": 872,
+        "views": 890,
         "visitors": 151
       },
       {
@@ -313,7 +313,7 @@
     "devices": [
       {
         "value": "mobile",
-        "views": 717,
+        "views": 735,
         "visitors": 149
       },
       {
@@ -335,7 +335,7 @@
     "browsers": [
       {
         "value": "Other",
-        "views": 527,
+        "views": 545,
         "visitors": 62
       },
       {
@@ -367,7 +367,7 @@
     "os": [
       {
         "value": "iOS",
-        "views": 691,
+        "views": 709,
         "visitors": 130
       },
       {
@@ -404,7 +404,7 @@
     "languages": [
       {
         "value": "da",
-        "views": 898,
+        "views": 916,
         "visitors": 148
       },
       {
@@ -4075,10 +4075,10 @@
       "new_users": 0,
       "new_clubs": 0,
       "new_players": 0,
-      "new_events": 0,
-      "rounds_played": 0,
-      "page_views": 1,
-      "unique_visitors": 1
+      "new_events": 2,
+      "rounds_played": 14,
+      "page_views": 19,
+      "unique_visitors": 2
     }
   ]
 }
