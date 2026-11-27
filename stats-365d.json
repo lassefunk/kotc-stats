@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:05:06.202Z",
+  "generated_at": "2026-11-27T00:05:06.507Z",
   "totals": {
     "users": 33,
     "clubs": 32,
@@ -9,9 +9,9 @@
     "events_ongoing": 25,
     "rounds": 494,
     "rating_changes": 1976,
-    "page_views": 1199,
-    "unique_visitors": 378,
-    "unique_visitors_in_period": 378
+    "page_views": 1200,
+    "unique_visitors": 379,
+    "unique_visitors_in_period": 379
   },
   "days": 365,
   "sources": {
@@ -430,16 +430,6 @@
     ]
   },
   "daily": [
-    {
-      "date": "2025-11-27",
-      "new_users": 0,
-      "new_clubs": 0,
-      "new_players": 0,
-      "new_events": 0,
-      "rounds_played": 0,
-      "page_views": 0,
-      "unique_visitors": 0
-    },
     {
       "date": "2025-11-28",
       "new_users": 0,
@@ -4077,8 +4067,18 @@
       "new_players": 0,
       "new_events": 0,
       "rounds_played": 0,
-      "page_views": 9,
-      "unique_visitors": 8
+      "page_views": 10,
+      "unique_visitors": 9
+    },
+    {
+      "date": "2026-11-27",
+      "new_users": 0,
+      "new_clubs": 0,
+      "new_players": 0,
+      "new_events": 0,
+      "rounds_played": 0,
+      "page_views": 0,
+      "unique_visitors": 0
     }
   ]
 }
